@@ -1,4 +1,4 @@
 # bestrepoever
 Test Github
 
-Test Conflict 1
+Test conflict 2
